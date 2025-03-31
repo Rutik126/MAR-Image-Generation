@@ -1,0 +1,6 @@
+flask
+diffusers
+torch
+transformers
+safetensors
+accelerate
